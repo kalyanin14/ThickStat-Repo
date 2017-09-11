@@ -1,0 +1,17 @@
+JustDrive
+=========
+
+**Voice based solution to assist the Drivers andmake the transport process safe and productive**
+
+**Objectives of JustDrive**
+
+
+	* Voice enables system to navigate and capture work orders and log updates
+	* Ability to interact with multiple sysytems without a single click
+	* Enhanced driver experience and increased driver retention
+	* Increased Driver Productivity
+	* Ability to deliver truck performance updates and notifications
+	* Gather detailed and improved driver logs and notes
+
+
+
