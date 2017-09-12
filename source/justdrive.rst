@@ -1,7 +1,7 @@
 JustDrive
 =========
 
-**Voice based solution to assist the Drivers andmake the transport process safe and productive**
+**Voice based solution to assist the Drivers and make the transport process safe and productive**
 
 **Objectives of JustDrive**
 
